@@ -1,0 +1,6 @@
+*.sdf
+*.suo
+bin/
+Debug/
+ipch/
+obj/
